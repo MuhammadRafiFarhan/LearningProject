@@ -21,3 +21,6 @@ update: tambahan fungsi trigonometri (sin, cos, tan) serta logaritma
 
 05/06/2022
 update: tambahan fungsi trigonometri (sin, cos, tan) dalam bentuk derajat
+
+07/06/2022
+update: revisi perbaikan fungsi tree dan stack
